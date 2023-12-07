@@ -1,0 +1,401 @@
+[{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e2b"
+  },
+  "nombre": "Ralph Wiggum",
+  "frase": "Ellas saben como... ardor.",
+  "direccion": "Izquierda",
+  "imagen": "http://localhost:2900/resources/Ralph_Wiggum.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e2c"
+  },
+  "nombre": "Rainier Wolfcastle",
+  "frase": "¡Mis ojos! ¡Las gafas no hacen nada!",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Rainier_Wolfcastle.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e2d"
+  },
+  "nombre": "Principal Skinner",
+  "frase": "Hola Simpson. Voy a viajar en el autobús hoy porque mamá escondió las llaves de mi auto para castigarme por hablar con una mujer por teléfono. Tenía razón al hacerlo.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Seymour_Skinner.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e2e"
+  },
+  "nombre": "Frank Grimes",
+  "frase": "Vivo en una habitación individual encima de una bolera... y debajo de otra bolera.",
+  "direccion": "Izquierda",
+  "imagen": "http://localhost:2900/resources/Frank_Grimes.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e2f"
+  },
+  "nombre": "Homer Simpson",
+  "frase": "Solo voy a usar esta cama para dormir, comer y tal vez construir un pequeño fuerte.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Homer_Simpson.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e30"
+  },
+  "nombre": "Homer Simpson",
+  "frase": "¡En teoría, el comunismo funciona! En teoria.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Homer_Simpson.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e31"
+  },
+  "nombre": "Otto",
+  "frase": "Vaya, ventanas. No creo que pueda permitirme este lugar.",
+  "direccion": "Izquierda",
+  "imagen": "http://localhost:2900/resources/Otto_Mann.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e32"
+  },
+  "nombre": "Milhouse Van Houten",
+  "frase": "¿Recuerdas la ocasión cuando se comió mi pez dorado? Y mentiste y dijiste que nunca tuve un pez dorado. Entonces, ¿por qué tengo el cuenco, Bart? ¿Por qué tengo el cuenco?",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Milhouse_Van_Houten.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e33"
+  },
+  "nombre": "Nelson Muntz",
+  "frase": "El hurto en tiendas es un delito sin víctimas, como golpear a alguien en la oscuridad.",
+  "direccion": "Izquierda",
+  "imagen": "http://localhost:2900/resources/Nelson_Muntz.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e34"
+  },
+  "nombre": "Dr. Nick",
+  "frase": "Ah, sé creativo. En lugar de hacer sándwiches con pan, use Pop-Tarts. En lugar de mascar chicle, mastica tocino.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Nick_Riviera.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e35"
+  },
+  "nombre": "Homer Simpson",
+  "frase": "Ni siquiera puedo decir la palabra 'paro' sin reírme como una colegiala.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Homer_Simpson.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e36"
+  },
+  "nombre": "Bart Simpson",
+  "frase": "Me estás convirtiendo en un criminal cuando todo lo que quiero ser es un pequeño matón.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Bart_Simpson.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e37"
+  },
+  "nombre": "Abe Simpson",
+  "frase": "¿Por qué me evitan? ¿Te recuerda mi rostro marchito el sombrío espectro de la muerte?",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Abraham_Simpson.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e38"
+  },
+  "nombre": "Comic Book Guy",
+  "frase": "El 'Itchy and Scratchy' de anoche fue, sin duda, el peor episodio de la historia. Tenga la seguridad de que estaba en Internet en minutos, registrando mi disgusto en todo el mundo.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Comic_Book_Guy.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e39"
+  },
+  "nombre": "Chief Wiggum",
+  "frase": "Oye, soy el jefe aquí. Hornéalo, juguetes.",
+  "direccion": "Izquierda",
+  "imagen": "http://localhost:2900/resources/Chief_Wiggum.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e3a"
+  },
+  "nombre": "Troy McClure",
+  "frase": "¡Ah! El licor dulce alivia el dolor.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Troy_Mc_Clure.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e3b"
+  },
+  "nombre": "Ralph Wiggum",
+  "frase": "¿Reprobé inglés? Eso es imposible.",
+  "direccion": "Izquierda",
+  "imagen": "http://localhost:2900/resources/Ralph_Wiggum.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e3c"
+  },
+  "nombre": "Lisa Simpson",
+  "frase": "Estos son mis únicos amigos... nerds adultos como Gore Vidal. E incluso él ha besado a más chicos que yo.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Lisa_Simpson.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e3d"
+  },
+  "nombre": "Marge Simpson",
+  "frase": "No quiero sonar como un aguafiestas, pero debido a que esto no es de mi gusto, no creo que nadie más pueda disfrutarlo.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Marge_Simpson.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e3e"
+  },
+  "nombre": "Chief Wiggum",
+  "frase": "Cuando miro a la gente no veo colores; Sólo veo religiones chifladas.",
+  "direccion": "Izquierda",
+  "imagen": "http://localhost:2900/resources/Chief_Wiggum.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e3f"
+  },
+  "nombre": "Apu Nahasapeemapetilon",
+  "frase": "Al enfriar mis entrañas, aumento las posibilidades de embarazar a mi esposa.",
+  "direccion": "Izquierda",
+  "imagen": "http://localhost:2900/resources/Apu_Nahasapeemapetilon.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e40"
+  },
+  "nombre": "Dr. Nick",
+  "frase": "¿Inflamable significa inflamable? ¡Qué país!",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Nick_Riviera.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e41"
+  },
+  "nombre": "Homer Simpson",
+  "frase": "Creo que los niños son el futuro... ¡A menos que los detengamos ahora!",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Homer_Simpson.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e42"
+  },
+  "nombre": "Homer Simpson",
+  "frase": "Los hechos no tienen sentido. Podrías usar hechos para probar cualquier cosa que sea remotamente cierta.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Homer_Simpson.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e43"
+  },
+  "nombre": "Homer Simpson",
+  "frase": "Y este es el soporte para refrigerios donde puedo poner mi bebida o, si quieres, un pastelito.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Homer_Simpson.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e44"
+  },
+  "nombre": "Mr. Burns",
+  "frase": "¿Rosquillas? Te dije que no me gusta la comida étnica.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Mr_Burns.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e45"
+  },
+  "nombre": "Waylon Smithers",
+  "frase": "Creo que las mujeres y los marineros no se mezclan.",
+  "direccion": "Izquierda",
+  "imagen": "http://localhost:2900/resources/Waylon_Smithers.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e46"
+  },
+  "nombre": "Moe Szyslak",
+  "frase": "Sí. Llama a esto una generalización injusta si es necesario... pero las personas mayores no son buenas en todo.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Moe_Szyslak.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e47"
+  },
+  "nombre": "Lisa Simpson",
+  "frase": "Cállate, cerebro. Tengo amigos ahora. Ya no te necesito.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Lisa_Simpson.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e48"
+  },
+  "nombre": "Mayor Quimby",
+  "frase": "¿No podemos tener una reunión que no termine con nosotros desenterrando un cadáver?",
+  "direccion": "Izquierda",
+  "imagen": "http://localhost:2900/resources/Mayor_Quimby.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e49"
+  },
+  "nombre": "Bart Simpson",
+  "frase": "Nada de lo que digas puede molestarnos. Somos la generación MTV.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Bart_Simpson.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e4a"
+  },
+  "nombre": "Abe Simpson",
+  "frase": "Solía estar con eso. Pero luego cambiaron lo que era. Ahora estoy con lo que no es, y lo que parece aterrador y extraño. Te pasará a ti.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Abraham_Simpson.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e4b"
+  },
+  "nombre": "Comic Book Guy",
+  "frase": "El 'Itchy & Scratchy' de anoche fue, sin duda, el peor episodio de la historia. Tenga la seguridad de que estaba en Internet en minutos, registrando mi disgusto en todo el mundo.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Comic_Book_Guy.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e4c"
+  },
+  "nombre": "Troy McClure",
+  "frase": "¡Ah! El licor dulce alivia el dolor.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Troy_Mc_Clure.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e4d"
+  },
+  "nombre": "Homer Simpson",
+  "frase": "Por una vez, tal vez alguien me llame 'señor' sin agregar, 'Estás montando una escena'.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Homer_Simpson.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e4e"
+  },
+  "nombre": "Milhouse Van Houten",
+  "frase": "Pero mi mamá dice que soy genial.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Milhouse_Van_Houten.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e4f"
+  },
+  "nombre": "Ralph Wiggum",
+  "frase": "¡Oh chico, duerme! ¡Ahí es donde soy un vikingo!",
+  "direccion": "Izquierda",
+  "imagen": "http://localhost:2900/resources/Ralph_Wiggum.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e50"
+  },
+  "nombre": "Homer Simpson",
+  "frase": "El matrimonio es como un ataúd y cada hijo es un clavo más.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Homer_Simpson.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e51"
+  },
+  "nombre": "Moe Szyslak",
+  "frase": "Bueno, soy mejor que la suciedad. Bueno, la mayoría de los tipos de suciedad. No quiero decir que la tienda de lujo compró suciedad. Eso rellena cargado de nutrientes. Yo... no puedo competir con esas cosas.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Moe_Szyslak.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e52"
+  },
+  "nombre": "Ralph Wiggum",
+  "frase": "Ahí fue donde vi al duende... Me dijo que quemara cosas.",
+  "direccion": "Izquierda",
+  "imagen": "http://localhost:2900/resources/Ralph_Wiggum.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e53"
+  },
+  "nombre": "Ralph Wiggum",
+  "frase": "¡Hola, Super Nintendo Chalmers!",
+  "direccion": "Izquierda",
+  "imagen": "http://localhost:2900/resources/Ralph_Wiggum.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e54"
+  },
+  "nombre": "Bart Simpson",
+  "frase": "Comete mis pantalones",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Bart_Simpson.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e55"
+  },
+  "nombre": "Homer Simpson",
+  "frase": "Gah, estúpido y sensual Flanders!",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Homer_Simpson.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e56"
+  },
+  "nombre": "Groundskeeper Willie",
+  "frase": "De vuelta en Edinburg, tuvimos una huelga de mineros del carbón. Todo lo que queríamos eran sombreros con una pequeña luz en la parte superior. Entonces, un día, la mina colapsó. Nadie salió con vida, ¡ni siquiera Willie!",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Groundskeeper_Willie.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e57"
+  },
+  "nombre": "Apu Nahasapeemapetilon",
+  "frase": "Gracias. Llegar de nuevo.",
+  "direccion": "Izquierda",
+  "imagen": "http://localhost:2900/resources/Apu_Nahasapeemapetilon.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e58"
+  },
+  "nombre": "Moe Szyslak",
+  "frase": "Cuando te atrape, te sacaré los ojos y te los meteré en los pantalones para que puedas ver cómo te saco la mierda a patadas, ¿de acuerdo? ¡Luego usaré tu lengua para pintar mi bote!",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Moe_Szyslak.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e59"
+  },
+  "nombre": "Homer Simpson",
+  "frase": "¡Oh, ahora tienen Internet en las computadoras!",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Homer_Simpson.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e5a"
+  },
+  "nombre": "Duffman",
+  "frase": "¡Oh sí!",
+  "direccion": "Izquierda",
+  "imagen": "http://localhost:2900/resources/Duffman.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e5b"
+  },
+  "nombre": "Marge Simpson",
+  "frase": "Estoy durmiendo en la bañera.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Marge_Simpson.png"
+},{
+  "_id": {
+    "$oid": "641c7cbedebd101f751d4e5c"
+  },
+  "nombre": "Homer Simpson",
+  "frase": "Espero no haberme dañado el cerebro.",
+  "direccion": "Derecha",
+  "imagen": "http://localhost:2900/resources/Homer_Simpson.png"
+}]
